@@ -1,0 +1,35 @@
+{
+  "name": "@amzui/shared",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "React",
+    "ui",
+    "component library"
+  ],
+  "author": "Amz",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo build",
+    "test": "echo test"
+  },
+  "main": "",
+  "module": "",
+  "types": "",
+  "exports": {
+    ".": {
+      "require": "",
+      "module": "",
+      "types": ""
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "React": ">=16.8.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

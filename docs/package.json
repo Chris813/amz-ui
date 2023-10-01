@@ -1,0 +1,10 @@
+{
+  "name": "@amzui/docs",
+  "private": true,
+  "scripts": {
+    "dev": "ecoh dev",
+    "build": "ecoh build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
